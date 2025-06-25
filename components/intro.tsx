@@ -60,7 +60,7 @@ export default function Intro() {
         animate={{ opacity: 1, y: 0 }}
       >
         Hello, I'm
-        <span className="font-extrabold italic"> Shorya</span>. I'm a{" "}
+        <span className="font-extrabold italic"> Shorya</span>. I&apos;m{" "}
         <span className="font-extrabold italic">full-stack developer</span> with{" "}
         <span className="font-extrabold italic">years</span> of experience. I enjoy
         building <span>web apps</span>. My focus is{" "}

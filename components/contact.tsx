@@ -38,7 +38,7 @@ export default function Contact() {
           const formData = new FormData();
           rawFormData.forEach((value, key) => formData.append(key, value));
 
-          const { data, error } = await sendEmail(formData);
+          const { error } = await sendEmail(formData);
 
           toast.dismiss();
 
