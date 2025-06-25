@@ -33,7 +33,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Shorya | Personal Portfolio",
+  title: "Shorya | Portfolio",
   description:
     "Shorya is a Full Stack Web Developer skilled in React, Next.js, Node.js, and MongoDB. Discover projects, skills, and services focused on building responsive and high-performance web applications.",
 };
